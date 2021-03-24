@@ -6,7 +6,7 @@ This Dragon Dino game is a simple infinite runner, which sees you Dragon will ju
 
 # How To Play and Controls
 
-Controls are basic, Press space to jump (and to start the game), and the up arrow to jump over the obstacles in your path, and Right arrow key to move forword. The goal is to survive for as long as humanly (or dragonly).The longer you hold the up arrow, the higher dino will jump.
+Controls are basic, Press up arrow key to jump (press any key to start the game with music), and the up arrow to jump over the obstacles in your path, and Right arrow key to move forword. The goal is to survive for as long as humanly (or dragonly).The longer you hold the up arrow, the higher dino will jump.
 
 # Tools Used
 
